@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "parentId": 0,
+      "name": "Staffs",
+      "ishidden": false
+    },
+    {
+      "id": 2,
+      "parentId": 1,
+      "name": "Teachers",
+      "ishidden": true
+    },
+    {
+      "id": 3,
+      "parentId": 1,
+      "name": "laptop",
+      "ishidden": false
+    },
+    {
+      "id": 4,
+      "parentId": 2,
+      "name": "imprimant",
+      "ishidden": false
+    },
+    {
+      "name": "houssam",
+      "parentId": 1,
+      "ishidden": true,
+      "id": 5
+    },
+    {
+      "name": "abcd",
+      "parentId": 3,
+      "ishidden": true,
+      "id": 6
+    }
+  ]
+}
